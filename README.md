@@ -1,3 +1,21 @@
+## Signal Visualization with Enhanced Color Patterns and Timestamps
+
+The `visualize_sft_measurements` function processes and displays signals with improved clarity using unique color patterns and timestamps. Here's an overview of its features:
+
+### Color Patterns
+- **Original Signals**: Represented with neon colors for easy identification.
+- **Adjusted Magnitudes**: Denoted with darker colors to distinguish from the original signals.
+
+### Timestamps
+- **Start and End Points**: Clearly marked with timestamps at the bottom of the chart, indicating when each signal starts and ends.
+- **Indicators**: Small markers placed outside the timestamp area highlight the exact start and stop points for precision.
+
+### Improved.py File
+The `improved.py` file is the newer version of this implementation, incorporating the enhancements mentioned above. This version ensures a better visualization experience by avoiding overlap and providing clear, distinct annotations for each signal.
+
+By using distinct colors and clear timestamp annotations, the visualization provides a comprehensive and visually appealing overview of the signal data, making it easier to understand patterns and variations.
+
+
 ### Patterns and Green Dot Measurement
 
 1. **Signal Processing**:
